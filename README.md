@@ -1,4 +1,4 @@
 # git-demo
 Git and Github Demo
 <br>
-Author: Charu Singh
+Author: Charu Singh (ebay)
